@@ -1,0 +1,173 @@
+@font-face {
+  font-family: 'ToggleKit-Icons';
+  src:  url('fonts/ToggleKit-Icons.eot?yhuqf8');
+  src:  url('fonts/ToggleKit-Icons.eot?yhuqf8#iefix') format('embedded-opentype'),
+    url('fonts/ToggleKit-Icons.ttf?yhuqf8') format('truetype'),
+    url('fonts/ToggleKit-Icons.woff?yhuqf8') format('woff'),
+    url('fonts/ToggleKit-Icons.svg?yhuqf8#ToggleKit-Icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.icons {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ToggleKit-Icons' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  
+  /* Enable Ligatures ================ */
+  letter-spacing: 0;
+  -webkit-font-feature-settings: "liga";
+  -moz-font-feature-settings: "liga=1";
+  -moz-font-feature-settings: "liga";
+  -ms-font-feature-settings: "liga" 1;
+  font-feature-settings: "liga";
+  -webkit-font-variant-ligatures: discretionary-ligatures;
+  font-variant-ligatures: discretionary-ligatures;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-youtube:before {
+  content: "\e900";
+}
+.icon-yelp:before {
+  content: "\e901";
+}
+.icon-wordpress:before {
+  content: "\e902";
+}
+.icon-whatsapp:before {
+  content: "\e903";
+}
+.icon-wechat:before {
+  content: "\e904";
+}
+.icon-vimeo:before {
+  content: "\e905";
+}
+.icon-twitter-x:before {
+  content: "\e906";
+}
+.icon-twitter:before {
+  content: "\e907";
+}
+.icon-twitch:before {
+  content: "\e908";
+}
+.icon-tiktok:before {
+  content: "\e909";
+}
+.icon-threads:before {
+  content: "\e90a";
+}
+.icon-tencent-qq:before {
+  content: "\e90b";
+}
+.icon-telegram:before {
+  content: "\e90c";
+}
+.icon-substack:before {
+  content: "\e90d";
+}
+.icon-strava:before {
+  content: "\e90e";
+}
+.icon-stack-overflow:before {
+  content: "\e90f";
+}
+.icon-spotify:before {
+  content: "\e910";
+}
+.icon-sourceforge:before {
+  content: "\e911";
+}
+.icon-snapchat:before {
+  content: "\e912";
+}
+.icon-slack:before {
+  content: "\e913";
+}
+.icon-skype:before {
+  content: "\e914";
+}
+.icon-sina-weibo:before {
+  content: "\e915";
+}
+.icon-signal:before {
+  content: "\e916";
+}
+.icon-reddit:before {
+  content: "\e917";
+}
+.icon-quora:before {
+  content: "\e918";
+}
+.icon-pinterest:before {
+  content: "\e919";
+}
+.icon-paypal:before {
+  content: "\e91a";
+}
+.icon-opencollective .path1:before {
+  content: "\e91b";
+  color: rgb(68, 68, 68);
+  opacity: 0.4;
+}
+.icon-opencollective .path2:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(68, 68, 68);
+}
+.icon-microsoft-teams:before {
+  content: "\e91d";
+}
+.icon-messenger:before {
+  content: "\e91e";
+}
+.icon-medium:before {
+  content: "\e91f";
+}
+.icon-mastodon:before {
+  content: "\e920";
+}
+.icon-linkedin:before {
+  content: "\e921";
+}
+.icon-line:before {
+  content: "\e922";
+}
+.icon-instagram:before {
+  content: "\e923";
+}
+.icon-google:before {
+  content: "\e924";
+}
+.icon-gitlab:before {
+  content: "\e925";
+}
+.icon-github:before {
+  content: "\e926";
+}
+.icon-facebook:before {
+  content: "\e927";
+}
+.icon-dribbble:before {
+  content: "\e928";
+}
+.icon-discord:before {
+  content: "\e929";
+}
+.icon-behance:before {
+  content: "\e92a";
+}
+.icon-alexa:before {
+  content: "\e92b";
+}
